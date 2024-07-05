@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+nav, main, footer {
+  padding: 10px;
+  margin: 10px 0;
+}
